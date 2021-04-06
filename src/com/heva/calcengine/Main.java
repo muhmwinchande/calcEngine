@@ -3,6 +3,7 @@ package com.heva.calcengine;
 import java.time.LocalDate;
 import java.util.Scanner;
 
+@SuppressWarnings("ALL")
 public class Main {
 
     private static Scanner scanner;
